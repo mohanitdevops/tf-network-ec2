@@ -1,0 +1,1 @@
+subnet_cidr = [{cidr_block = "10.0.6.0/24", name = "sub1"}, {cidr_block ="10.0.7.0/24", name = "sub2"}]
